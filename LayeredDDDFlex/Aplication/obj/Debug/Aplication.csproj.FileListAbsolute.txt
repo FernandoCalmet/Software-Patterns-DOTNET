@@ -1,0 +1,12 @@
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\bin\Debug\Aplication.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\bin\Debug\Aplication.pdb
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\bin\Debug\Domain.Model.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\bin\Debug\Domain.Services.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\bin\Debug\Infra.DataAccess.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\bin\Debug\Domain.Model.pdb
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\bin\Debug\Domain.Services.pdb
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\bin\Debug\Infra.DataAccess.pdb
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\obj\Debug\Aplication.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\obj\Debug\Aplication.csproj.CopyComplete
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\obj\Debug\Aplication.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Aplication\obj\Debug\Aplication.pdb

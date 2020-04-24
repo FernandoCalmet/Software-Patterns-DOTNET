@@ -1,0 +1,14 @@
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\bin\Debug\Dominio.dll
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\obj\Debug\Presentacion.Formularios.FormEmpleado.resources
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ferca\source\repos\LayeredPEAA\Presentacion\obj\Debug\Presentacion.pdb

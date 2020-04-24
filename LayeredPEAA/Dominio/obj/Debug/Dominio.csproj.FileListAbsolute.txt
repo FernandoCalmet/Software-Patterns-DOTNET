@@ -1,0 +1,8 @@
+C:\Users\ferca\source\repos\LayeredPEAA\Dominio\bin\Debug\Dominio.dll
+C:\Users\ferca\source\repos\LayeredPEAA\Dominio\bin\Debug\Dominio.pdb
+C:\Users\ferca\source\repos\LayeredPEAA\Dominio\bin\Debug\DataAccess.dll
+C:\Users\ferca\source\repos\LayeredPEAA\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\ferca\source\repos\LayeredPEAA\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\LayeredPEAA\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\ferca\source\repos\LayeredPEAA\Dominio\obj\Debug\Dominio.dll
+C:\Users\ferca\source\repos\LayeredPEAA\Dominio\obj\Debug\Dominio.pdb

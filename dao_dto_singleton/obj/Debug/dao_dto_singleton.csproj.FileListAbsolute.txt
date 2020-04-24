@@ -1,0 +1,12 @@
+C:\Users\ferca\source\repos\dao_dto_singleton\bin\Debug\dao_dto_singleton.exe.config
+C:\Users\ferca\source\repos\dao_dto_singleton\bin\Debug\dao_dto_singleton.exe
+C:\Users\ferca\source\repos\dao_dto_singleton\bin\Debug\dao_dto_singleton.pdb
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.Properties.Resources.resources
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.UI.FormClientes.resources
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.UI.FormPrincipal.resources
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.csproj.GenerateResource.cache
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.csproj.CoreCompileInputs.cache
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.exe
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.pdb
+C:\Users\ferca\source\repos\dao_dto_singleton\obj\Debug\dao_dto_singleton.UI.FormLibros.resources

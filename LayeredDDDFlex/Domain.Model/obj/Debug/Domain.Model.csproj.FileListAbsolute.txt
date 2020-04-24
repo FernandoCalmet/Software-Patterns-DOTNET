@@ -1,0 +1,5 @@
+C:\Users\ferca\source\repos\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.pdb
+C:\Users\ferca\source\repos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.pdb

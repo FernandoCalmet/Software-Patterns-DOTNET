@@ -1,0 +1,5 @@
+C:\Users\ferca\source\repos\LayeredPEAA\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ferca\source\repos\LayeredPEAA\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ferca\source\repos\LayeredPEAA\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\LayeredPEAA\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ferca\source\repos\LayeredPEAA\DataAccess\obj\Debug\DataAccess.pdb

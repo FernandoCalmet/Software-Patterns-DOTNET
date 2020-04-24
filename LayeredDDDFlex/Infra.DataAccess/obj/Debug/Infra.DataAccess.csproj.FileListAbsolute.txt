@@ -1,0 +1,8 @@
+C:\Users\ferca\source\repos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Infra.DataAccess.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Infra.DataAccess.pdb
+C:\Users\ferca\source\repos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Domain.Model.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Domain.Model.pdb
+C:\Users\ferca\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CopyComplete
+C:\Users\ferca\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.dll
+C:\Users\ferca\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.pdb

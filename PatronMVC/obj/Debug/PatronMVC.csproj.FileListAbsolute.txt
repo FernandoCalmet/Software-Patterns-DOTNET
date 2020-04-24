@@ -1,0 +1,10 @@
+C:\Users\ferca\source\repos\PatronMVC\bin\Debug\PatronMVC.exe.config
+C:\Users\ferca\source\repos\PatronMVC\bin\Debug\PatronMVC.exe
+C:\Users\ferca\source\repos\PatronMVC\bin\Debug\PatronMVC.pdb
+C:\Users\ferca\source\repos\PatronMVC\obj\Debug\PatronMVC.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\PatronMVC\obj\Debug\PatronMVC.Properties.Resources.resources
+C:\Users\ferca\source\repos\PatronMVC\obj\Debug\PatronMVC.csproj.GenerateResource.cache
+C:\Users\ferca\source\repos\PatronMVC\obj\Debug\PatronMVC.csproj.CoreCompileInputs.cache
+C:\Users\ferca\source\repos\PatronMVC\obj\Debug\PatronMVC.exe
+C:\Users\ferca\source\repos\PatronMVC\obj\Debug\PatronMVC.pdb
+C:\Users\ferca\source\repos\PatronMVC\obj\Debug\PatronMVC.Vista.ClientesView.resources
